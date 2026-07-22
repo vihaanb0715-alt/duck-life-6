@@ -38,7 +38,7 @@ function setCloak(name, icon) {
 }
 if (getCookie("debugging") == 1) {
 	const debugscript = document.createElement("script");
-	debugscript.setAttribute("src", "/js/debug.js");
+	debugscript.setAttribute("src", "https://cdn.jsdelivr.net/gh/vihaanb0715-alt/duck-life-6@main/js/debug.js");
 	document.head.append(debugscript);
 }
 function getCookie(cname) {
