@@ -1,7 +1,7 @@
 {
     "companyName": "Mofunzone",
     "productName": "Duck Life: Space",
-    "dataUrl": "https://github.com/vihaanb0715-alt/duck-life-6/raw/refs/heads/main/Build/WebGL5MP-DATA.unityweb",
+    "dataUrl": "https://cdn.statically.io/gh/vihaanb0715-alt/duck-life-6@main/Build/WebGL5MP-DATA.unityweb",
     "asmCodeUrl": "https://cdn.jsdelivr.net/gh/vihaanb0715-alt/duck-life-6@main/Build/WebGL5MP-CODE.unityweb",
     "asmMemoryUrl": "https://cdn.jsdelivr.net/gh/vihaanb0715-alt/duck-life-6@main/Build/WebGL5MP-MEMORY.unityweb",
     "asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/vihaanb0715-alt/duck-life-6@main/Build/WebGL5MP-FRAMEWORK.unityweb",
