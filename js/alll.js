@@ -132,7 +132,7 @@ addEventListener("visibilitychange", (e) => {
 					}
 				}
 				document.head.appendChild(icon);
-				icon.href = location.origin + "/favicon.ico";
+				icon.href = location.origin + "https://github.com/BulbasaurChat/bulbasaurchat.github.io/blob/main/favicon.ico";
 			} else {
 				document.head.appendChild(backup_icon);
 			}
